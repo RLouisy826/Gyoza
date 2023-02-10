@@ -65,11 +65,11 @@
     #recipe-container{
         background: rgba(255, 255, 255, 0.81);
         border-radius: 25px;
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding: 50px 15px;
         display: block;
+        max-width: 900px;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     #sub-container{

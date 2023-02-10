@@ -7,6 +7,7 @@
 </script>
 
 <div id="app-display">
+  <div id="display-container">
     <Hleft />
     <br>
     <Hright />
@@ -17,10 +18,12 @@
     <br>
     <Q5 />
   </div>
+</div>
 
   <style>
       #app-display{
         display: flex;
         flex-direction: column;
     }
+
   </style>
